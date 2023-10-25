@@ -2,7 +2,7 @@
 function twoSum (){
 	const number1 = document.getElementById("n1");
 	const number2 = document.getElementById("n2");
-     const Sum = document.getElementById("sum");
+     const Sum = document.getElementById("Sum");
 	const sumBtn = document.getElementById("sum_btn");
 
 	sumBtn.addEventListener("click", function(){
